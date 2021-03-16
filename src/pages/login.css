@@ -1,0 +1,25 @@
+html,
+body {
+    height: 100%;
+}
+
+body {    
+    background: #fff;
+}
+
+#login-page {
+    margin-top: 40px;
+    width: 360px;
+    
+}
+
+.card-panel {
+    border-radius: 15px;
+}
+
+.card {
+    position: absolute;
+     left: 50%;
+     top: 50%;    
+     transform: translate(-50%, -50%); 
+}
